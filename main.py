@@ -1,8 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="하교수의 Streamlit",
-    page_icon="",
+    page_title="전태환의 시각화",
+    page_icon="⭐",
     layout="wide",
     initial_sidebar_state="expanded",
     menu_items={
