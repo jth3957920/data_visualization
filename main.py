@@ -13,3 +13,4 @@ st.set_page_config(
 )
 
 '# 아'
+'이앱은 Streamlit을 활용한 시각화 대시보드 예시입니당'
