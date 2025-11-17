@@ -11,6 +11,15 @@ st.set_page_config(
         'About': "## 하정훈 교수\n- [홍익대학교 산업·데이터공학과](https://ie.hongik.ac.kr/ie/020)"
     }
 )
+st.sidebar.title("다양한 사이드바 위젯들")
+
+st.sider.checkbox("외국인 포함")
+st.sider.checkbox("고령인구 포함")
+st.sider.divider()
+st.sider.radio('데이터 타입',['남성','여성'])
+
+
+
 
 '# 아'
 '이앱은 Streamlit을 활용한 시각화 대시보드 예시입니당'
