@@ -20,6 +20,5 @@ st.sider.radio('데이터 타입',['남성','여성'])
 
 
 
-
-'# 아'
-'이앱은 Streamlit을 활용한 시각화 대시보드 예시입니당'
+st.write('# 아')
+st.write('이앱은 Streamlit을 활용한 시각화 대시보드 예시입니당')
